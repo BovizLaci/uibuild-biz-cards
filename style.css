@@ -95,6 +95,7 @@ div.container div.card h6 {
   font-size: 14px;
   color: #999;
   text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 div.container div.card p {
